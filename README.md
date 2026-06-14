@@ -1,113 +1,112 @@
-# Novextech
-Novextech portfolio showcasing intelligent web systems, AI-driven platforms, and digital ecosystem design focused on real-world outcomes. 
+<!-- ===================== HERO ===================== -->
 
-<!-- ===================== NOVEXTECH LANDING README ===================== -->
+<h1 align="center">Raeen Sepehri</h1>
+
+<h3 align="center">Founder & Builder — Novextech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Raeen+Sepehri;Founder+%26+Builder+%E2%80%94+Novextech;AI-powered+Web+Systems;Digital+Products+%26+Ecosystem+Design;Building+systems+that+scale+and+create+real+outcomes" />
+AI-powered Web Systems · Digital Products · Ecosystem Design
+</p>
+
+<p align="center">
+<i>"Building systems that learn, grow, and connect people to real outcomes."</i>
 </p>
 
 ---
 
-# 🧠 Raeen Sepehri  
-### Founder & Builder — Novextech  
-#### AI-powered Web Systems · Digital Products · Ecosystem Design  
+<!-- ===================== INTRO ===================== -->
 
-> *"Building systems that learn, grow, and connect people to real outcomes."*
+## About
 
----
-
-## 🚀 About Me
-
-- AI-powered web systems designer and digital solutions developer  
-- Founder of **Novextech** — building intelligent web systems, AI integrations, and digital ecosystems  
-- Working across web development, AI systems, and product-driven architecture  
+AI-powered web systems designer and digital product builder focused on scalable digital ecosystems.  
+Founder of **Novextech**, building intelligent platforms, automation systems, and data-driven web products.
 
 ---
 
-## ⚡ NOVEXTECH
+<!-- ===================== NOVEXTECH ===================== -->
 
-> **Building intelligent web systems, AI-powered platforms, and digital products**
+## Novextech
 
-**Platforms**
+A digital ecosystem focused on building intelligent web systems, AI-powered platforms, and scalable digital products.
+
+- AI-driven product systems  
+- Web platforms & automation  
+- Ecosystem-based architecture thinking  
+
+**Contact**
+- Email: novextech.agency@gmail.com  
 - Telegram: @novextechofficial  
 - Instagram: @novex.tech  
-- Email: novextech.agency@gmail.com  
 - LinkedIn: linkedin.com/in/RaeenSepehri  
 
 ---
 
-## 🧩 Selected Projects
+<!-- ===================== PROJECTS ===================== -->
 
-### 🧠 Novextech Digital Ecosystem
-AI-powered 11-layer ecosystem with Telegram Mini App, analytics, adaptive learning, and automation systems.
+## Selected Projects
 
-**Tags:** AI · System Design · Web Platform · Data Analytics  
+### Novextech Digital Ecosystem
+AI-powered multi-layer system integrating web platform, Telegram Mini App, analytics, learning systems, and automation pipelines.
 
----
-
-### 🎓 JDK Educational Management System
-Learning management system with courses, analytics, and student tracking.
-
-**Tags:** Dashboard · Education · Analytics  
+> Focus: System architecture · AI integration · Data-driven workflows
 
 ---
 
-### ⚖️ Mehdi Sepehri Law Firm Website
-Professional legal website focused on trust, clarity, and conversion optimization.
+### JDK Educational Management System
+A structured learning platform for course delivery, student tracking, and performance analytics.
 
-**Tags:** Web Design · Legal · UX  
-
----
-
-### 🏥 Dentine Clinic Website
-Healthcare website designed for patient trust and appointment conversion.
-
-**Tags:** Healthcare · UI/UX · Conversion  
+> Focus: Dashboards · Education systems · Analytics
 
 ---
 
-## 🛠 Core Skills
+### Mehdi Sepehri Law Firm Website
+Professional legal website designed for clarity, trust, and client conversion.
 
-- Product Strategy & Systems Thinking  
-- UI/UX & Web Design  
-- HTML · CSS · JavaScript · React  
-- WordPress · API Integration  
-- SEO · Analytics · Growth Optimization  
+> Focus: UX design · Information architecture · Legal industry
 
 ---
 
-## 🧰 Tools & Technologies
+### Dentine Clinic Website
+Healthcare platform optimized for patient trust, service clarity, and appointment conversion.
 
-![HTML5](https://img.shields.io/badge/HTML5-00C9A7?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00C9A7?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5A623?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-F5A623?style=flat-square&logo=react&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-00C9A7?style=flat-square&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F5A623?style=flat-square&logo=figma&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-00C9A7?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO-F5A623?style=flat-square)
+> Focus: Healthcare UX · Conversion optimization · UI systems
 
 ---
 
-## 🔬 Research & Systems Thinking
+<!-- ===================== SKILLS ===================== -->
 
-- AI-assisted content creation ecosystem research  
-- User behavior & digital product optimization  
-- Scalable system architecture design  
-- Automation-driven workflow engineering  
+## Core Skills
+
+Product Strategy · Systems Thinking · UI/UX Design · Web Development  
+HTML · CSS · JavaScript · React · WordPress · API Integration  
+SEO · Analytics · Conversion Optimization · Digital Strategy  
 
 ---
 
-## 📬 Connect
+<!-- ===================== TOOLS ===================== -->
 
-- 📧 Email: novextech.agency@gmail.com  
-- ✈️ Telegram: @novextechofficial  
-- 📱 Instagram: @novex.tech  
-- 💼 LinkedIn: linkedin.com/in/RaeenSepehri  
+## Tools & Technologies
+
+HTML5 · CSS3 · JavaScript · React · WordPress · Figma  
+Google Analytics · Tag Manager · ChatGPT · Claude · Midjourney  
+
+---
+
+<!-- ===================== RESEARCH ===================== -->
+
+## Research & Systems Thinking
+
+- AI-assisted content ecosystems and automation research  
+- User behavior and digital product optimization studies  
+- Scalable architecture design for digital platforms  
+- Workflow automation and system efficiency modeling  
+
+---
+
+<!-- ===================== FOOTER ===================== -->
 
 ---
 
 <p align="center">
-  <b>Building at Novextech · Open to collaborations in AI, Web Systems, and Digital Products</b>
+<b>Building at Novextech · Open to collaborations in AI, Web Systems, and Digital Products</b>
 </p>
