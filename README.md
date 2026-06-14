@@ -1,105 +1,202 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Raeen Sepehri</h1>
+<div align="center">
 
-<h3 align="center">Founder & Builder — Novextech</h3>
+<h1>🚀 Raeen Sepehri</h1>
 
-<p align="center">
+<h3>
+Founder & Builder — <span style="color:#00C9A7;">Novextech</span>
+</h3>
+
+<p>
 AI-powered Web Systems · Digital Products · Ecosystem Design
 </p>
 
-<p align="center">
+<blockquote>
 <i>"Building systems that learn, grow, and connect people to real outcomes."</i>
+</blockquote>
+
+</div>
+
+---
+
+<!-- ===================== STATUS BAR ===================== -->
+
+<div align="center">
+
+<p>
+🟢 Building Systems & Ecosystems  
+⚡ Focused on AI + Web Architecture  
+📡 Active Founder Mode  
 </p>
 
----
-
-<!-- ===================== INTRO ===================== -->
-
-## About
-
-AI-powered web systems designer and digital product builder focused on scalable digital ecosystems.  
-Founder of **Novextech**, building intelligent platforms, automation systems, and data-driven web products.
+</div>
 
 ---
 
-<!-- ===================== NOVEXTECH ===================== -->
+<!-- ===================== ABOUT PANEL ===================== -->
 
-## Novextech
+## 🧠 About Me
 
-A digital ecosystem focused on building intelligent web systems, AI-powered platforms, and scalable digital products.
+<div style="border:1px solid #00C9A7; padding:12px; border-radius:10px;">
 
-- AI-driven product systems  
-- Web platforms & automation  
-- Ecosystem-based architecture thinking  
+<p>✨ AI-powered web systems designer</p>
+<p>🚀 Founder of Novextech</p>
+<p>🌐 Builder of scalable digital ecosystems</p>
+<p>📊 Focused on product systems, automation & AI integration</p>
 
-**Contact**
-- Email: novextech.agency@gmail.com  
-- Telegram: @novextechofficial  
-- Instagram: @novex.tech  
-- LinkedIn: linkedin.com/in/RaeenSepehri  
+</div>
+
+---
+
+<!-- ===================== NOVEXTECH BLOCK ===================== -->
+
+## ⚡ Novextech Core
+
+<div style="background-color:#0D1117; border-left:4px solid #00C9A7; padding:12px;">
+
+<h3>🔥 Intelligent Systems Studio</h3>
+
+<p>
+We build AI-powered platforms, web systems, and digital ecosystems designed for scale.
+</p>
+
+<ul>
+<li>🧠 AI-driven architecture</li>
+<li>⚙️ Automation systems</li>
+<li>🌐 Web platforms</li>
+<li>📊 Data-driven ecosystems</li>
+</ul>
+
+</div>
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 
-## Selected Projects
+## 🧩 Selected Projects
 
-### Novextech Digital Ecosystem
-AI-powered multi-layer system integrating web platform, Telegram Mini App, analytics, learning systems, and automation pipelines.
+<div>
 
-> Focus: System architecture · AI integration · Data-driven workflows
+<h3>🧠 Novextech Digital Ecosystem</h3>
 
----
+<p>
+Multi-layer AI system integrating web platform, Telegram Mini App, analytics engine, and automation workflows.
+</p>
 
-### JDK Educational Management System
-A structured learning platform for course delivery, student tracking, and performance analytics.
+<hr/>
 
-> Focus: Dashboards · Education systems · Analytics
+<h3>🎓 JDK Educational Management System</h3>
 
----
+<p>
+Learning platform with dashboards, courses, and student tracking system.
+</p>
 
-### Mehdi Sepehri Law Firm Website
-Professional legal website designed for clarity, trust, and client conversion.
+<hr/>
 
-> Focus: UX design · Information architecture · Legal industry
+<h3>⚖️ Mehdi Sepehri Law Firm Website</h3>
 
----
+<p>
+Professional legal website focused on structured UX and client conversion.
+</p>
 
-### Dentine Clinic Website
-Healthcare platform optimized for patient trust, service clarity, and appointment conversion.
+<hr/>
 
-> Focus: Healthcare UX · Conversion optimization · UI systems
+<h3>🏥 Dentine Clinic Website</h3>
 
----
+<p>
+Healthcare platform optimized for trust, clarity, and appointment flow.
+</p>
 
-<!-- ===================== SKILLS ===================== -->
-
-## Core Skills
-
-Product Strategy · Systems Thinking · UI/UX Design · Web Development  
-HTML · CSS · JavaScript · React · WordPress · API Integration  
-SEO · Analytics · Conversion Optimization · Digital Strategy  
+</div>
 
 ---
 
-<!-- ===================== TOOLS ===================== -->
+<!-- ===================== SKILLS MATRIX ===================== -->
 
-## Tools & Technologies
+## 🛠 Core Skills Matrix
 
-HTML5 · CSS3 · JavaScript · React · WordPress · Figma  
-Google Analytics · Tag Manager · ChatGPT · Claude · Midjourney  
+<div>
+
+<table>
+<tr>
+<th>Category</th>
+<th>Skills</th>
+<th>Level</th>
+</tr>
+
+<tr>
+<td>Product Strategy</td>
+<td>Systems Thinking, Market Analysis</td>
+<td>██████████ 95%</td>
+</tr>
+
+<tr>
+<td>Design</td>
+<td>UI/UX, Web Design, Figma</td>
+<td>█████████ 90%</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td>HTML, CSS, JavaScript, React</td>
+<td>█████████ 90%</td>
+</tr>
+
+<tr>
+<td>Systems</td>
+<td>Architecture, Automation</td>
+<td>██████████ 95%</td>
+</tr>
+
+<tr>
+<td>Growth</td>
+<td>SEO, Analytics</td>
+<td>████████ 85%</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-<!-- ===================== RESEARCH ===================== -->
+<!-- ===================== TOOLS PANEL ===================== -->
 
-## Research & Systems Thinking
+## 🧰 Tools & Technologies
 
-- AI-assisted content ecosystems and automation research  
-- User behavior and digital product optimization studies  
-- Scalable architecture design for digital platforms  
-- Workflow automation and system efficiency modeling  
+<div>
+
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+<code>React</code>
+<code>WordPress</code>
+<code>Figma</code>
+<code>Google Analytics</code>
+<code>Tag Manager</code>
+<code>ChatGPT</code>
+<code>Claude</code>
+<code>Midjourney</code>
+
+</div>
+
+---
+
+<!-- ===================== SYSTEM THINKING SECTION ===================== -->
+
+## 🔬 Research & Systems Thinking
+
+<div>
+
+<ul>
+<li>🤖 AI-driven ecosystem modeling</li>
+<li>📊 User behavior analysis</li>
+<li>🧠 Digital product optimization systems</li>
+<li>⚙️ Workflow automation engineering</li>
+</ul>
+
+</div>
 
 ---
 
@@ -107,6 +204,12 @@ Google Analytics · Tag Manager · ChatGPT · Claude · Midjourney
 
 ---
 
-<p align="center">
-<b>Building at Novextech · Open to collaborations in AI, Web Systems, and Digital Products</b>
+<div align="center">
+
+<h3>💼 Building at Novextech</h3>
+
+<p>
+🚀 Open to collaborations in AI, Web Systems, and Digital Products
 </p>
+
+</div>
